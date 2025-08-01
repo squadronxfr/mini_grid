@@ -141,4 +141,4 @@ Si l'agent reçoit constamment des récompenses nulles (0.000) et n'apprend pas 
 
 ## Licence
 
-Ce projet est sous licence MIT. Voir le fichier LICENSE pour plus de détails.
+Contributeurs et contributrice du projet : Samuel TOMEN NANA, Eddy TEROSIER,  Moussa BAKAYOKO, Carolle TIGNOKPA
