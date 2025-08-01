@@ -17,14 +17,14 @@ L'agent utilise une architecture de réseau de neurones avec un modèle Actor-Cr
 
 ### Prérequis
 
-- Python 3.10 ou supérieur
+- Python 3.10
 - pip (gestionnaire de paquets Python)
 
 ### Étapes d'installation
 
 1. Clonez ce dépôt :
    ```bash
-   git clone https://github.com/votre-nom/mini_grid.git
+   git clone https://github.com/squadronxfr/mini_grid.git
    cd mini_grid
    ```
 
